@@ -4,6 +4,9 @@
 
 **Stride & Fuel** is a robust, production-ready Android Kotlin application built natively to capture physical movement, execute complex timeframe analytics, and gamify personal fitness milestones. 
 
+## Demo video
+**link:** https://drive.google.com/file/d/1paS3lySPmCu1v40p0QEGoXvFzvTh5KrK/view
+
 ---
 
 ## 🏃‍♂️ Core Functional Features
